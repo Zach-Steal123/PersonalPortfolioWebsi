@@ -31,3 +31,12 @@ p {
 .active button {
   background-color: lightpink;
 }
+.return {
+  text-align: center;
+}
+a {
+  color: black;
+}
+a:hover {
+  color: red;
+}
