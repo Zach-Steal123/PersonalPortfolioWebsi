@@ -28,3 +28,6 @@ button:hover {
 p {
   text-align: justify;
 }
+.active button {
+  background-color: lightpink;
+}
