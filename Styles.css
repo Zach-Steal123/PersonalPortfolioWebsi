@@ -46,3 +46,13 @@ textarea {
 img {
   height: 400px;
 }
+table {
+  background-color: black;
+}
+td {
+  background-color: lightblue;
+  width: 500px;
+  height: 50px;
+  padding: 20px;
+  margin: 20px;
+}
