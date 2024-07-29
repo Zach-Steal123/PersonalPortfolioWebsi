@@ -8,3 +8,9 @@ body {
 hr {
   border-color: black;
 }
+h1 {
+  text-align: center;
+  background-color: green;
+  color: white;
+  border-radius: 2px;
+}
