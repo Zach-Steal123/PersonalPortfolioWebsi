@@ -40,3 +40,6 @@ a {
 a:hover {
   color: red;
 }
+textarea {
+  text-align: center;
+}
