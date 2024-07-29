@@ -16,12 +16,12 @@ h1 {
 }
 button {
   background-color: white;
-  border: 3px solid black;
-  border-radius: 3px;
+  border: 2px solid black;
+  border-radius: 5px;
   width: 500px;
-  height: 20px;
+  height: 40px;
 }
 button:hover {
-  background-color: grey;
+  background-color: lightgrey;
   cursor: pointer;
 }
